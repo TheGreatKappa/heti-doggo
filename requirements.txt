@@ -1,0 +1,6 @@
+discord.py
+instaloader
+Pillow
+python-dotenv 
+pandas
+pytesseract
